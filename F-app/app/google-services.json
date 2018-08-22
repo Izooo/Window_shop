@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "871901854788",
+    "firebase_url": "https://f-app-88bd3.firebaseio.com",
+    "project_id": "f-app-88bd3",
+    "storage_bucket": "f-app-88bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871901854788:android:f935b3da96f11e80",
+        "android_client_info": {
+          "package_name": "com.example.ericsson_23_guest.f_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871901854788-meqmnm1ed4i72etqb3gbkpasnkldp5di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ericsson_23_guest.f_app",
+            "certificate_hash": "d729044dd3131f3cb8fcc58346e09f84d5127fdd"
+          }
+        },
+        {
+          "client_id": "871901854788-sqv32uvud5jp2in9t2966lmcpd08m7qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC42jqrKbiub_lQ2-Zx8r8Xbq-VLBbeHQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871901854788-sqv32uvud5jp2in9t2966lmcpd08m7qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

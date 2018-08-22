@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ericsson_23_guest.f_app">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/fapp"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/fapp"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".Items">
+        </activity>
+        <activity android:name=".MainActivity">
+        </activity>
+        <activity android:name=".Drinks">
+        </activity>
+        <activity android:name=".Junks">
+        </activity>
+        <activity android:name=".Clothes">
+        </activity>
+        <activity android:name=".Shoes">
+        </activity>
+        <activity android:name=".Electronics">
+        </activity>
+        <activity android:name=".Laptops"></activity>
+        <activity android:name=".Phones"></activity>
+    </application>
+
+</manifest>
